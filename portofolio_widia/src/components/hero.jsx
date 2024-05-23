@@ -79,14 +79,14 @@ const Hero = () => {
           <img src="/hero2.png" alt="Hero" className="w-full h-auto max-w-xs lg:max-w-md object-cover lg:absolute lg:bottom-0" />
         </div>
       </div>
-      <motion.div
-        className="absolute bottom-[-100px] text-[50vh] whitespace-nowrap text-[#ffffff09] font-bold w-full lg:w-1/2 z-0" // Added z-0 to make sure it is behind
+      {/* <motion.div
+        className="absolute bottom-[-100px] text-[50vh] whitespace-nowrap text-[#ffffff09] font-bold w-full lg:w-1/2 z-0" 
         variants={sliderVariants}
         initial="initial"
         animate="animate"
       >
         Software Engineering
-      </motion.div>
+      </motion.div> */}
     </div>
   );
 };
