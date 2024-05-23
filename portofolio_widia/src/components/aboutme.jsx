@@ -15,7 +15,7 @@ const AboutMe = () => {
             </h2>
 
             <div className=" relative rounded-full flex justify-center items-center">
-                <img src="/hero3.png" alt="Profile" className="w-60 h-60 rounded-full border-4 border-blue-500 bg-gray-900" />
+                <img src="/hero3.webp" alt="Profile" className="w-60 h-60 rounded-full border-4 border-blue-500 bg-gray-900" />
                 <span className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[calc(100%+1rem)] h-[calc(100%+1rem)] rounded-full border-t-2 border-b-2 border-l-2 border-r-2 border-main-color border-b-second-bg-color border-l-main-color border-t-second-bg-color border-r-main-color animate-aboutSpinner'></span>
             </div>
 

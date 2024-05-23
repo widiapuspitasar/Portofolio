@@ -76,7 +76,7 @@ const Hero = () => {
         </motion.div>
 
         <div className="hidden lg:flex lg:justify-end lg:items-end lg:w-1/2 lg:h-full lg:relative">
-          <img src="/hero2.png" alt="Hero" className="w-full h-auto max-w-xs lg:max-w-md object-cover lg:absolute lg:bottom-0" />
+          <img src="/hero2.webp" alt="Hero" className="w-full h-auto max-w-xs lg:max-w-md object-cover lg:absolute lg:bottom-0" />
         </div>
       </div>
       {/* <motion.div
