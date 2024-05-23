@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio! I am an individual transitioning into a frontend developer career, bringing a unique blend of analytical skills from my background as a Laboratory Analyst and Data Analyst. This combination allows me to approach frontend development with keen attention to detail and a strong analytical mindset, creating innovative solutions and exceptional user experiences.
 
+![Home](https://github.com/widiapuspitasar/Portofolio/blob/main/portofolio_widia/public/portofolio.png)
+
 ## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
@@ -9,7 +11,6 @@ Welcome to my personal portfolio! I am an individual transitioning into a fronte
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
-- [License](#license)
 
 ## About Me
 As a passionate career switcher transitioning into frontend development, I bring a unique blend of analytical skills honed from my background as a Laboratory Analyst and Data Analyst. This unique combination allows me to approach frontend development with a keen eye for detail and a strong analytical mindset, enabling me to create innovative solutions and exceptional user experiences.
@@ -79,4 +80,4 @@ Once the application is running, you can navigate through the available pages to
 If you have any questions or suggestions, feel free to contact me via:
 
 - Email: puspitasariwidia@gmail.com
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/widiapuspitasar/)
+- LinkedIn: https://linkedin.com/in/widiapuspitasar/

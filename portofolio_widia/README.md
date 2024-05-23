@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/portofolio.
+   git clone https://github.com/widiapuspitasar/Portofolio.git
    cd portofolio-react
 
 2. Install dependencies:
