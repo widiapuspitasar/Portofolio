@@ -116,7 +116,7 @@ const Navbar = () => {
                         variants={listVariants}
                     >
                         
-                        <motion.li className='flex flex-col space-y-5 font-poppins'>
+                        <motion.li className='flex flex-col space-y-5 font-poppins text-xl font-semibold'>
                             <Link className="hover:text-main-color" to="Homepage" smooth={true}  duration={500}>
                                 Home
                             </Link>
