@@ -1,4 +1,4 @@
-import { Container } from "@mui/material";
+
 import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 import { useRef } from "react";
 import { useMediaQuery } from '@mui/material';
@@ -9,27 +9,27 @@ const items = [
     title: "CareerSearch",
     img: "/portofolio1.png",
     desc: "CareerSearch is a platform designed for searching and creating job listings. This project utilizes frontend technologies such as React JS, Tailwind CSS, and Material UI. On the backend, it is built with Python, Flask, and Docker, and is deployed using Vercel and Railway.",
-    link: "https://career-search-project-revou.vercel.app/",
+    link: "https://github.com/widiapuspitasar/CareerSearch_ProjectRevou",
   },
   {
     id: 2,
     title: "Pokemon Web",
     img: "/portofolio2.png",
-    link: "https://milestone-2-widiapuspitasar.vercel.app/",
+    link: "https://github.com/revou-fsse-3/module-5-widiapuspitasar",
     desc: "Pokemon Web is a site that provides comprehensive information about Pokémon. Built using React TS, it integrates the Pokémon Rest API to fetch the latest data.",
   },
   {
     id: 3,
     title: "Courses Web",
     img: "/portofolio3.png",
-    link: "https://www.webwid.site/",
+    link: "https://github.com/revou-fsse-3/milestone-1-widiapuspitasar",
     desc: "Courses Web is a platform for selling online courses. This project was developed using HTML, JavaScript, and CSS. Additionally, I learned how to create and manage my own domain through this project.",
   },
   {
     id: 4,
     title: "One Piece Blog",
     img: "/portofolio4.png",
-    link: "https://www.myonepiece.site/",
+    link: "https://github.com/revou-fsse-3/module-2-widiapuspitasar",
     desc: "One Piece Blog is a site that provides information related to the One Piece series. This project uses advanced HTML and CSS to create an appealing and informative layout.",
   },
 ];
